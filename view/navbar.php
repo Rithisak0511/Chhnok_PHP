@@ -45,7 +45,7 @@ echo '
                 <div class="relative ml-3">
                     <button type="button" class="relative flex rounded-full text-sm focus:outline-none" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                         <span class="sr-only">Open user menu</span>
-                        <img class="h-8 w-8 rounded-full bg-[#aaf153]" src="img/user.png" alt="User">
+                        <svg  xmlns="http://www.w3.org/2000/svg"  width="30"  height="30"  viewBox="0 0 24 24"  fill="none"  stroke="white"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-user"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" /><path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" /></svg>
                     </button>
                     <div class="absolute right-0 z-10 mt-2 w-48 origin-top-right bg-[#202020] py-2 shadow-lg ring-1 ring-black/5 hidden" role="menu" aria-orientation="vertical" aria-labelledby="user-menu-button" id="user-menu">
                         <a href="#" class="block px-4 py-2 text-sm text-[#aaf153] hover:bg-[#202020] hover:text-gray-200" role="menuitem">Your Profile</a>
