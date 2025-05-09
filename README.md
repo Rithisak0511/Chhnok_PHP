@@ -15,3 +15,4 @@ and use this command " git clone 'url' "
 
 
 
+# ពេលចង់សរសេរត្រូវ Git pull សិនណា​ណប់ៗ
