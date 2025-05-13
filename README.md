@@ -12,7 +12,7 @@ and then use this command " cd htdocs "
 
 and use this command " git clone 'url' "
 
-
+hello 
 
 
 # ពេលចង់សរសេរត្រូវ Git pull សិនណា​ណប់ៗ
